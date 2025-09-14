@@ -12,7 +12,7 @@ body {
 /* Headings */
 h1, h2, h3 { text-align: center; margin: 10px 0; }
 h1 { font-size: 40px; font-weight: 800; color: #6a0dad; } /* vivid purple */
-h2 { font-size: 26px; font-weight: 800; color: #c62828; } /* bright red */
+h2 { font-size: 30px; font-weight: 800; color: #c62828; } /* bright red */
 h3 { font-size: 22px; font-weight: 700; color: #b8860b; } /* golden */
 
 /* ========== NAVIGATION BAR ========== */
